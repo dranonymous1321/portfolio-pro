@@ -1,4 +1,3 @@
-
 export default function Terminal() {
   return (
     <div className="bg-black border border-green-500 rounded-2xl p-6 font-mono">
@@ -15,7 +14,7 @@ export default function Terminal() {
       </p>
 
       <p className="text-white mt-2">
-        Next.js, React, AI, Branding, Full Stack Development
+        Next.js, React, AI, Branding
       </p>
     </div>
   )
