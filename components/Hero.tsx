@@ -1,4 +1,3 @@
-
 "use client"
 
 import { motion } from "framer-motion"
@@ -10,7 +9,7 @@ export default function Hero() {
         initial={{ opacity: 0, y: 40 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <h1 className="text-7xl font-bold">
+        <h1 className="text-7xl font-bold text-white">
           Aniruddha Rajendra Shinde
         </h1>
 
